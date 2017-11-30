@@ -1,0 +1,7 @@
+C:\Users\sdutta\Documents\Jenkins.Demo\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\sdutta\Documents\Jenkins.Demo\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\sdutta\Documents\Jenkins.Demo\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\sdutta\Documents\Jenkins.Demo\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\sdutta\Documents\Jenkins.Demo\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\sdutta\Documents\Jenkins.Demo\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\sdutta\Documents\Jenkins.Demo\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
