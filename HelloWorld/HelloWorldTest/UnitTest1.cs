@@ -11,7 +11,7 @@ namespace HelloWorldTest
         public void TestMethod1()
         {
             //Added a comment
-            Assert.AreEqual("Hello World", Program.SendMessage());
+            Assert.AreEqual("Hello World!", Program.SendMessage());
         }
     }
 }
