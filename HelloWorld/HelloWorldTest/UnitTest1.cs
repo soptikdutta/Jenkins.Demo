@@ -8,6 +8,20 @@ namespace HelloWorldTest
     public class UnitTest1
     {
         [TestMethod]
+        public void TestMethod()
+        {
+            //Added a comment
+            Assert.AreEqual("Hello World!!", Program.SendMessage());
+        }
+
+        [TestMethod]
+        public void TestMethod0()
+        {
+            //Added a comment
+            Assert.AreEqual("Hello World!", Program.SendMessage());
+        }
+
+        [TestMethod]
         public void TestMethod1()
         {
             //Added a comment
