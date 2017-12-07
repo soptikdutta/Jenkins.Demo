@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="87b1704b-679f-4c0b-8f6a-0759cf9d5a68" name="sdutta@USMUMSDUTTA1 2017-12-07 16:32:32" runUser="US\sdutta" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="872cf5d6-2b88-459e-aa4b-0507908e613c">
+    <Deployment userDeploymentRoot="C:\Users\sdutta\Documents\Jenkins.Demo\HelloWorld" useDefaultDeploymentRoot="false" runDeploymentRoot="sdutta_USMUMSDUTTA1 2017-12-07 16_32_32" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+    <Properties />
+  </TestSettings>
+  <Times creation="2017-12-07T16:32:32.1605359+05:30" queuing="2017-12-07T16:32:32.5004680+05:30" start="2017-12-07T16:32:32.6413404+05:30" finish="2017-12-07T16:32:32.8799721+05:30" />
+  <ResultSummary outcome="Completed">
+    <Counters total="7" executed="7" passed="7" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod5" storage="c:\users\sdutta\documents\jenkins.demo\helloworld\helloworldtest\bin\debug\helloworldtest.dll" id="b70ca2d1-a6c9-0bd3-ad5f-5b3f00368e54">
+      <Execution timeOut="1800000" id="10c10115-991a-48e3-87e5-2aa9781448f4" />
+      <TestMethod codeBase="C:/Users/sdutta/Documents/Jenkins.Demo/HelloWorld/HelloWorldTest/bin/Debug/HelloWorldTest.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HelloWorldTest.UnitTest1, HelloWorldTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod5" />
+    </UnitTest>
+    <UnitTest name="TestMethod0" storage="c:\users\sdutta\documents\jenkins.demo\helloworld\helloworldtest\bin\debug\helloworldtest.dll" id="d7baf947-37ff-6e98-5215-87531d4f707b">
+      <Execution timeOut="1800000" id="5c1f3a38-1989-4f2e-997d-98f440d91401" />
+      <TestMethod codeBase="C:/Users/sdutta/Documents/Jenkins.Demo/HelloWorld/HelloWorldTest/bin/Debug/HelloWorldTest.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HelloWorldTest.UnitTest1, HelloWorldTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod0" />
+    </UnitTest>
+    <UnitTest name="TestMethod2" storage="c:\users\sdutta\documents\jenkins.demo\helloworld\helloworldtest\bin\debug\helloworldtest.dll" id="286df5ea-c04a-6ba3-ea7e-c3cd2e2029e7">
+      <Execution timeOut="1800000" id="18ab6586-c8a1-4904-b49e-7ddf74f5ae33" />
+      <TestMethod codeBase="C:/Users/sdutta/Documents/Jenkins.Demo/HelloWorld/HelloWorldTest/bin/Debug/HelloWorldTest.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HelloWorldTest.UnitTest1, HelloWorldTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod2" />
+    </UnitTest>
+    <UnitTest name="TestMethod4" storage="c:\users\sdutta\documents\jenkins.demo\helloworld\helloworldtest\bin\debug\helloworldtest.dll" id="4f950338-8658-8efb-dd19-ad5ce3c050c3">
+      <Execution timeOut="1800000" id="be349d5e-6099-4cef-b250-f9d22ce10005" />
+      <TestMethod codeBase="C:/Users/sdutta/Documents/Jenkins.Demo/HelloWorld/HelloWorldTest/bin/Debug/HelloWorldTest.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HelloWorldTest.UnitTest1, HelloWorldTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod4" />
+    </UnitTest>
+    <UnitTest name="TestMethod1" storage="c:\users\sdutta\documents\jenkins.demo\helloworld\helloworldtest\bin\debug\helloworldtest.dll" id="468ee5d5-e801-0e2d-ab24-fd2b6bbe7081">
+      <Execution timeOut="1800000" id="c4e0ca22-52d3-4cdb-a84a-0a72cbc0debf" />
+      <TestMethod codeBase="C:/Users/sdutta/Documents/Jenkins.Demo/HelloWorld/HelloWorldTest/bin/Debug/HelloWorldTest.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HelloWorldTest.UnitTest1, HelloWorldTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+    <UnitTest name="TestMethod3" storage="c:\users\sdutta\documents\jenkins.demo\helloworld\helloworldtest\bin\debug\helloworldtest.dll" id="4fa90494-e3af-2061-f563-6e99d7131d81">
+      <Execution timeOut="1800000" id="8b27fa80-35a2-4d34-b3ef-db6c17156b3f" />
+      <TestMethod codeBase="C:/Users/sdutta/Documents/Jenkins.Demo/HelloWorld/HelloWorldTest/bin/Debug/HelloWorldTest.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HelloWorldTest.UnitTest1, HelloWorldTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod3" />
+    </UnitTest>
+    <UnitTest name="TestMethod" storage="c:\users\sdutta\documents\jenkins.demo\helloworld\helloworldtest\bin\debug\helloworldtest.dll" id="5fe5fc78-83c4-6a18-0d6f-cde6f85564b1">
+      <Execution timeOut="1800000" id="1f28bd6b-afca-486b-9574-4ef90501dc29" />
+      <TestMethod codeBase="C:/Users/sdutta/Documents/Jenkins.Demo/HelloWorld/HelloWorldTest/bin/Debug/HelloWorldTest.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HelloWorldTest.UnitTest1, HelloWorldTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="5fe5fc78-83c4-6a18-0d6f-cde6f85564b1" executionId="1f28bd6b-afca-486b-9574-4ef90501dc29" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d7baf947-37ff-6e98-5215-87531d4f707b" executionId="5c1f3a38-1989-4f2e-997d-98f440d91401" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="468ee5d5-e801-0e2d-ab24-fd2b6bbe7081" executionId="c4e0ca22-52d3-4cdb-a84a-0a72cbc0debf" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="286df5ea-c04a-6ba3-ea7e-c3cd2e2029e7" executionId="18ab6586-c8a1-4904-b49e-7ddf74f5ae33" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4fa90494-e3af-2061-f563-6e99d7131d81" executionId="8b27fa80-35a2-4d34-b3ef-db6c17156b3f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4f950338-8658-8efb-dd19-ad5ce3c050c3" executionId="be349d5e-6099-4cef-b250-f9d22ce10005" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b70ca2d1-a6c9-0bd3-ad5f-5b3f00368e54" executionId="10c10115-991a-48e3-87e5-2aa9781448f4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="1f28bd6b-afca-486b-9574-4ef90501dc29" testId="5fe5fc78-83c4-6a18-0d6f-cde6f85564b1" testName="TestMethod" computerName="USMUMSDUTTA1" duration="00:00:00.0222512" startTime="2017-12-07T16:32:32.6884656+05:30" endTime="2017-12-07T16:32:32.8032693+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1f28bd6b-afca-486b-9574-4ef90501dc29">
+    </UnitTestResult>
+    <UnitTestResult executionId="5c1f3a38-1989-4f2e-997d-98f440d91401" testId="d7baf947-37ff-6e98-5215-87531d4f707b" testName="TestMethod0" computerName="USMUMSDUTTA1" duration="00:00:00.0001646" startTime="2017-12-07T16:32:32.8052746+05:30" endTime="2017-12-07T16:32:32.8062775+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5c1f3a38-1989-4f2e-997d-98f440d91401">
+    </UnitTestResult>
+    <UnitTestResult executionId="c4e0ca22-52d3-4cdb-a84a-0a72cbc0debf" testId="468ee5d5-e801-0e2d-ab24-fd2b6bbe7081" testName="TestMethod1" computerName="USMUMSDUTTA1" duration="00:00:00.0001639" startTime="2017-12-07T16:32:32.8077814+05:30" endTime="2017-12-07T16:32:32.8082828+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c4e0ca22-52d3-4cdb-a84a-0a72cbc0debf">
+    </UnitTestResult>
+    <UnitTestResult executionId="18ab6586-c8a1-4904-b49e-7ddf74f5ae33" testId="286df5ea-c04a-6ba3-ea7e-c3cd2e2029e7" testName="TestMethod2" computerName="USMUMSDUTTA1" duration="00:00:00.0004016" startTime="2017-12-07T16:32:32.8107888+05:30" endTime="2017-12-07T16:32:32.8117916+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="18ab6586-c8a1-4904-b49e-7ddf74f5ae33">
+    </UnitTestResult>
+    <UnitTestResult executionId="8b27fa80-35a2-4d34-b3ef-db6c17156b3f" testId="4fa90494-e3af-2061-f563-6e99d7131d81" testName="TestMethod3" computerName="USMUMSDUTTA1" duration="00:00:00.0001671" startTime="2017-12-07T16:32:32.8132969+05:30" endTime="2017-12-07T16:32:32.8153012+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8b27fa80-35a2-4d34-b3ef-db6c17156b3f">
+    </UnitTestResult>
+    <UnitTestResult executionId="be349d5e-6099-4cef-b250-f9d22ce10005" testId="4f950338-8658-8efb-dd19-ad5ce3c050c3" testName="TestMethod4" computerName="USMUMSDUTTA1" duration="00:00:00.0001572" startTime="2017-12-07T16:32:32.8173065+05:30" endTime="2017-12-07T16:32:32.8178079+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="be349d5e-6099-4cef-b250-f9d22ce10005">
+    </UnitTestResult>
+    <UnitTestResult executionId="10c10115-991a-48e3-87e5-2aa9781448f4" testId="b70ca2d1-a6c9-0bd3-ad5f-5b3f00368e54" testName="TestMethod5" computerName="USMUMSDUTTA1" duration="00:00:00.0036407" startTime="2017-12-07T16:32:32.8208164+05:30" endTime="2017-12-07T16:32:32.8258284+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="10c10115-991a-48e3-87e5-2aa9781448f4">
+    </UnitTestResult>
+  </Results>
+</TestRun>
