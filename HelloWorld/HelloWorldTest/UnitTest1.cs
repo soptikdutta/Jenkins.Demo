@@ -11,14 +11,14 @@ namespace HelloWorldTest
         public void TestMethod()
         {
             //Added a comment
-            Assert.AreEqual("Hello World", Program.SendMessage());
+            Assert.AreEqual("Hello World!", Program.SendMessage());
         }
 
         [TestMethod]
         public void TestMethod0()
         {
             //Added a comment
-            Assert.AreEqual("Hello World", Program.SendMessage());
+            Assert.AreEqual("Hello World!", Program.SendMessage());
         }
 
         [TestMethod]
@@ -32,7 +32,7 @@ namespace HelloWorldTest
         public void TestMethod2()
         {
             //Added a comment
-            Assert.AreEqual("Hello World", Program.SendMessage());
+            Assert.AreEqual("Hello World!", Program.SendMessage());
         }
 
         [TestMethod]
